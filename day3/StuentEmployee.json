@@ -1,0 +1,995 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "John",
+      "location": "India",
+      "phone": "1234567890",
+      "courses": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Kim",
+      "location": "US",
+      "phone": "98876543213",
+      "courses": [
+        "Python",
+        "Appium"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Smith",
+      "location": "Canada",
+      "phone": "165498765",
+      "courses": [
+        "C#",
+        "RestAPI"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Scott",
+      "location": "France",
+      "phone": "123456",
+      "courses": [
+        "C",
+        "C++"
+      ]
+    },
+    {
+      "id": "7031",
+      "name": "jimhm6eh30w@gmail.com",
+      "location": "France",
+      "phone": "8351618498",
+      "courses": [
+        "C",
+        "C++"
+      ]
+    }
+  ],
+  "employees": [
+    {
+      "employeeId": "101",
+      "name": "Alice",
+      "department": "HR",
+      "location": "India",
+      "phone": "9876543210",
+      "skills": [
+        "Recruitment",
+        "Communication"
+      ],
+      "id": "e876"
+    },
+    {
+      "employeeId": "102",
+      "name": "Bob",
+      "department": "Engineering",
+      "location": "US",
+      "phone": "123498765",
+      "skills": [
+        "JavaScript",
+        "Node.js"
+      ],
+      "id": "beaf"
+    },
+    {
+      "employeeId": "103",
+      "name": "Charlie",
+      "department": "Sales",
+      "location": "Canada",
+      "phone": "9876123456",
+      "skills": [
+        "Negotiation",
+        "CRM"
+      ],
+      "id": "0bad"
+    },
+    {
+      "employeeId": "104",
+      "name": "David",
+      "department": "Marketing",
+      "location": "UK",
+      "phone": "192837465",
+      "skills": [
+        "SEO",
+        "Content Strategy"
+      ],
+      "id": "c6fb"
+    },
+    {
+      "id": "200",
+      "name": ".td36rv6u",
+      "location": "Hyderabad",
+      "phone": "5712488226",
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": "700",
+      "name": ".v16f6w7s",
+      "location": "Hyderabad",
+      "phone": "381641863",
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": "198",
+      "name": ".4686jtjb",
+      "location": "Hyderabad",
+      "phone": "4283501220",
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": "491",
+      "name": ".iphncoik",
+      "location": "Hyderabad",
+      "phone": "906641408",
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": "659",
+      "name": ".89al1tzp",
+      "location": "Hyderabad",
+      "phone": "5801568063",
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": "917",
+      "name": ".4mhrjxv8",
+      "location": "Hyderabad",
+      "phone": "3813047016",
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": "237",
+      "name": ".7s1p25hj",
+      "location": "Hyderabad",
+      "phone": "510581764",
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": "198",
+      "name": ".x05w6pae",
+      "location": "Hyderabad",
+      "phone": "2896874632",
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": "97",
+      "name": ".kw45temq",
+      "location": "Hyderabad",
+      "phone": "1452858041",
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": "852",
+      "name": ".mevkz3hl",
+      "location": "Hyderabad",
+      "phone": "3845340195",
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": "686",
+      "name": ".2qffuc8q",
+      "location": "Hyderabad",
+      "phone": "54919410",
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": "6",
+      "name": ".z90izb9l",
+      "location": "Hyderabad",
+      "phone": "3575236353",
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": "781",
+      "name": ".o3lwezby",
+      "location": "Hyderabad",
+      "phone": "9304816189",
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": "184",
+      "name": ".okaitlnf",
+      "location": "Hyderabad",
+      "phone": "3865824804",
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": "753",
+      "name": ".nqexx3h0",
+      "location": "Hyderabad",
+      "phone": "8030436810",
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": "232",
+      "name": ".mtvlo5la",
+      "location": "Hyderabad",
+      "phone": "9289005342",
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": "774",
+      "name": ".deq94vm5",
+      "location": "Hyderabad",
+      "phone": "1596970192",
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": "455",
+      "name": ".0f9glnf3",
+      "location": "Hyderabad",
+      "phone": "2455100162",
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": "775",
+      "name": "{{RandomEmpName}}",
+      "location": "",
+      "phone": "{{RandomEmpMobileNumber}}",
+      "courses": [
+        "C++"
+      ]
+    },
+    {
+      "id": "578",
+      "name": "pcqpa8up",
+      "location": "",
+      "phone": "6320231564",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "850",
+      "name": "u8uvva3b",
+      "location": "",
+      "phone": "3222371771",
+      "courses": [
+        "java"
+      ]
+    },
+    {
+      "id": "786",
+      "name": "hgrjhqht",
+      "location": "",
+      "phone": "3537087364",
+      "courses": [
+        "C++"
+      ]
+    },
+    {
+      "id": "690",
+      "name": "n0v4v3t5",
+      "location": "",
+      "phone": "9828090558",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "557",
+      "name": "hive0v5y",
+      "location": "",
+      "phone": "6468317916",
+      "courses": [
+        "C++"
+      ]
+    },
+    {
+      "id": "343",
+      "name": "yd8a9ja7",
+      "location": "",
+      "phone": "6259957570",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "787",
+      "name": "j9vfs0jz",
+      "location": "",
+      "phone": "6255003068",
+      "courses": [
+        "C++"
+      ]
+    },
+    {
+      "id": "995",
+      "name": "b294nj33",
+      "location": "",
+      "phone": "9333051883",
+      "courses": [
+        "java"
+      ]
+    },
+    {
+      "id": "224",
+      "name": "3a23aqkn",
+      "location": "",
+      "phone": "8731403284",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "326",
+      "name": "42yhk20t",
+      "location": "",
+      "phone": "8300908333",
+      "courses": [
+        "C++"
+      ]
+    },
+    {
+      "id": "327",
+      "name": "jwq5zosy",
+      "location": "",
+      "phone": "1480550745",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "315",
+      "name": "xfclqn1u",
+      "location": "",
+      "phone": "5091612633",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "979",
+      "name": "bmpwgacu",
+      "location": "",
+      "phone": "6437515079",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "548",
+      "name": "rkjzshww",
+      "location": "",
+      "phone": "4276849204",
+      "courses": [
+        "C++"
+      ]
+    },
+    {
+      "id": "319",
+      "name": "f4p1ccyq",
+      "location": "",
+      "phone": "9589165222",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "510",
+      "name": "ty6ackl1",
+      "location": "",
+      "phone": "8866501696",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "679",
+      "name": "93mb2zth",
+      "location": "",
+      "phone": "9239865550",
+      "courses": [
+        "java"
+      ]
+    },
+    {
+      "id": "845",
+      "name": "kqvly3ch",
+      "location": "",
+      "phone": "8458871335",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "467",
+      "name": "mm70jy95",
+      "location": "",
+      "phone": "6621167057",
+      "courses": [
+        "C++"
+      ]
+    },
+    {
+      "id": "118",
+      "name": "wpkr47n8",
+      "location": "",
+      "phone": "9621821644",
+      "courses": [
+        "C++"
+      ]
+    },
+    {
+      "id": "849",
+      "name": "pf2dtcna",
+      "location": "",
+      "phone": "9229620103",
+      "courses": [
+        "java"
+      ]
+    },
+    {
+      "id": "976",
+      "name": "s0x6ehmq",
+      "location": "",
+      "phone": "1088996113",
+      "courses": [
+        "java"
+      ]
+    },
+    {
+      "id": "293",
+      "name": "ouo91acz",
+      "location": "",
+      "phone": "4145577632",
+      "courses": [
+        "C++"
+      ]
+    },
+    {
+      "id": "65",
+      "name": "z4sdacuf",
+      "location": "",
+      "phone": "6074736653",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "609",
+      "name": "zz0fnj1w",
+      "location": "",
+      "phone": "407002485",
+      "courses": [
+        "java"
+      ]
+    },
+    {
+      "id": "835",
+      "name": "46yd9xp4",
+      "location": "",
+      "phone": "7016678432",
+      "courses": [
+        "C++"
+      ]
+    },
+    {
+      "id": "904",
+      "name": "p5ys8epl",
+      "location": "",
+      "phone": "9025268194",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "807",
+      "name": "lis0yeze",
+      "location": "",
+      "phone": "2350850606",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "383",
+      "name": "bkiwtqhi",
+      "location": "",
+      "phone": "2284898804",
+      "courses": [
+        "C++"
+      ]
+    },
+    {
+      "id": "858",
+      "name": "5f9fn9xi",
+      "location": "",
+      "phone": "1718587716",
+      "courses": [
+        "C++"
+      ]
+    },
+    {
+      "id": "626",
+      "name": "bxqa97gq",
+      "location": "",
+      "phone": "1601681549",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "534",
+      "name": "mmtedsnx",
+      "location": "Hyderabad",
+      "phone": "9587223558",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "767",
+      "name": "cefzayhl",
+      "location": "Hyderabad",
+      "phone": "8335719452",
+      "courses": [
+        "java"
+      ]
+    },
+    {
+      "id": "382",
+      "name": "mdir4pyn",
+      "location": "Hyderabad",
+      "phone": "2599409503",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "640",
+      "name": "cfx82b1q",
+      "location": "Hyderabad",
+      "phone": "5004982335",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "739",
+      "name": "51dudepw",
+      "location": "Hyderabad",
+      "phone": "3313256252",
+      "courses": [
+        "C++"
+      ]
+    },
+    {
+      "id": "752",
+      "name": "p9grtn5b",
+      "location": "Hyderabad",
+      "phone": "5394548146",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "340",
+      "name": "jva2x7uc",
+      "location": "Hyderabad",
+      "phone": "1678289105",
+      "courses": [
+        "java"
+      ]
+    },
+    {
+      "id": "464",
+      "name": "waq8f7nk",
+      "location": "Hyderabad",
+      "phone": "3794559176",
+      "courses": [
+        "C++"
+      ]
+    },
+    {
+      "id": "519",
+      "name": "9hcgvl0v",
+      "location": "Hyderabad",
+      "phone": "9638486137",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "308",
+      "name": "g88o9s21",
+      "location": "Hyderabad",
+      "phone": "8010352781",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "602",
+      "name": "itlwt1tn",
+      "location": "Hyderabad",
+      "phone": "8901424389",
+      "courses": [
+        "C++"
+      ]
+    },
+    {
+      "id": "384",
+      "name": "bnei9t86",
+      "location": "Hyderabad",
+      "phone": "4515068843",
+      "courses": [
+        "java"
+      ]
+    },
+    {
+      "id": "818",
+      "name": "6q9ffiwq",
+      "location": "Hyderabad",
+      "phone": "6672258771",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "239",
+      "name": "n3qa7xbi",
+      "location": "Hyderabad",
+      "phone": "1693672771",
+      "courses": [
+        "C++"
+      ]
+    },
+    {
+      "id": "139",
+      "name": "f0umme5v",
+      "location": "Hyderabad",
+      "phone": "3362397101",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "828",
+      "name": "136fmrw3",
+      "location": "Hyderabad",
+      "phone": "4476893697",
+      "courses": [
+        "java"
+      ]
+    },
+    {
+      "id": "166",
+      "name": "b39j0sof",
+      "location": "Hyderabad",
+      "phone": "9625552381",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Srihari",
+      "location": "Hyderabad",
+      "phone": "78907890",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Shyam",
+      "location": "Hyderabad",
+      "phone": "12344321",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Kumar",
+      "location": "Hyderabad",
+      "phone": "23455432",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "24",
+      "name": "ryam",
+      "location": "Hyderabad",
+      "phone": "34566543",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "25",
+      "name": "john",
+      "location": "Hyderabad",
+      "phone": "45677654",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "26",
+      "name": "Tom",
+      "location": "Hyderabad",
+      "phone": "56788765",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "27",
+      "name": "King",
+      "location": "Hyderabad",
+      "phone": "67899876",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "28",
+      "name": "Jame",
+      "location": "Hyderabad",
+      "phone": "98675778",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "29",
+      "name": "Don",
+      "location": "Hyderabad",
+      "phone": "987667898",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "30",
+      "name": "SIngh",
+      "location": "Hyderabad",
+      "phone": "80098089",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Srihari",
+      "location": "Hyderabad",
+      "phone": "78907890",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Shyam",
+      "location": "Hyderabad",
+      "phone": "12344321",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Kumar",
+      "location": "Hyderabad",
+      "phone": "23455432",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "24",
+      "name": "ryam",
+      "location": "Hyderabad",
+      "phone": "34566543",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "25",
+      "name": "john",
+      "location": "Hyderabad",
+      "phone": "45677654",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "26",
+      "name": "Tom",
+      "location": "Hyderabad",
+      "phone": "56788765",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "27",
+      "name": "King",
+      "location": "Hyderabad",
+      "phone": "67899876",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "28",
+      "name": "Jame",
+      "location": "Hyderabad",
+      "phone": "98675778",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "29",
+      "name": "Don",
+      "location": "Hyderabad",
+      "phone": "987667898",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "30",
+      "name": "SIngh",
+      "location": "Hyderabad",
+      "phone": "80098089",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Srihari",
+      "location": "Hyderabad",
+      "phone": "78907890",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Shyam",
+      "location": "Hyderabad",
+      "phone": "12344321",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Kumar",
+      "location": "Hyderabad",
+      "phone": "23455432",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "24",
+      "name": "ryam",
+      "location": "Hyderabad",
+      "phone": "34566543",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "25",
+      "name": "john",
+      "location": "Hyderabad",
+      "phone": "45677654",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "26",
+      "name": "Tom",
+      "location": "Hyderabad",
+      "phone": "56788765",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "27",
+      "name": "King",
+      "location": "Hyderabad",
+      "phone": "67899876",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "28",
+      "name": "Jame",
+      "location": "Hyderabad",
+      "phone": "98675778",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "29",
+      "name": "Don",
+      "location": "Hyderabad",
+      "phone": "987667898",
+      "courses": [
+        "selenium"
+      ]
+    },
+    {
+      "id": "30",
+      "name": "SIngh",
+      "location": "Hyderabad",
+      "phone": "80098089",
+      "courses": [
+        "selenium"
+      ]
+    }
+  ]
+}
